@@ -1,8 +1,8 @@
-# CoachMed
+# First Line AI
 
 Medication check-ins that reach the practice before the review.
 
-A GP's medication review currently starts with "are you taking these?" and a guess. CoachMed turns the guess into a record: patients log doses on a blister-pack screen that mirrors the object in their hand, and the practice sees adherence, stopped medicines, and the patient's own words — before the appointment.
+A GP's medication review currently starts with "are you taking these?" and a guess. First Line AI turns the guess into a record: patients log doses on a blister-pack screen that mirrors the object in their hand, and the practice sees adherence, stopped medicines, and the patient's own words — before the appointment.
 
 ## Run it
 
